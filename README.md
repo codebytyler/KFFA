@@ -1,4 +1,4 @@
-# Prompt: Build the "R3ckxBot" Minecraft practice-bot plugin
+# Prompt: Build the "KittyFFAPVPBot" Minecraft practice-bot plugin
 
 You are an expert Minecraft plugin developer (Java 21, Paper API, Citizens API). Build a **complete, production-ready, compilable** Paper plugin from scratch. Write every file in full. Do not leave TODOs, stubs, placeholder methods or "implement this yourself" comments. Do not copy code or assets from any existing paid plugin; write everything originally.
 
@@ -6,8 +6,7 @@ You are an expert Minecraft plugin developer (Java 21, Paper API, Citizens API).
 
 ## 1. Identity and branding (read carefully)
 
-- The plugin's name in `plugin.yml` is **`R3ckxBot`**. That is the only place this name appears.
-- Everywhere else, the code and every player-facing element use **`KittyFFA`**:
+- Everywhere, the code and every player-facing element use **`KittyFFA`**:
   - Base package: `dev.kittyffa`
   - Main class: `dev.kittyffa.KittyFFA`
   - All class names, config keys, permissions (`kittyffa.*`), messages, GUI titles, chat prefixes, bot nametags and the database file use KittyFFA / KittyFFAPVPBot.
